@@ -1,7 +1,7 @@
 {
-  "version": "0.0.12",
+  "version": "0.0.13",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2668816,
-  "sha256": "3405543616d2973d49ae4cf6d613676b088219e9aa65925899fe3ac32194a582",
-  "notes": "Halaman PERBARUI FIRMWARE menampilkan daftar Yang baru sebelum PASANG"
+  "size": 2685216,
+  "sha256": "2065310ce8ed0206be25831399e27e0da07708c6ed684b4796e2ed2e896775b2",
+  "notes": "Halaman yang datanya tidak pernah dijawab mobil disembunyikan otomatis, tidak lagi tampil DATA TIDAK TERSEDIA atau SENSOR TIDAK MENJAWAB | Layar gabungan (BERKENDARA, DAYA, TERMAL, KEMUDI) tampil asal satu datanya ada; bagian yang kosong ditulis -- | SETELAN HP: tombol kembali kini di kiri atas sebelah judul, di subhalaman setelan dan di PERBARUI FIRMWARE | SETELAN HP: menu depan memakai logo Tridee dan judul Tridee Gauge"
 }

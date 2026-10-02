@@ -1,6 +1,7 @@
 {
-  "version": "0.0.11",
+  "version": "0.0.12",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2667120,
-  "sha256": "fca1e133e487329ac6d8eee0b3445a488bc8a22218e7e306cccd4b930c3c11b9"
+  "size": 2668816,
+  "sha256": "3405543616d2973d49ae4cf6d613676b088219e9aa65925899fe3ac32194a582",
+  "notes": "Halaman PERBARUI FIRMWARE menampilkan daftar Yang baru sebelum PASANG"
 }

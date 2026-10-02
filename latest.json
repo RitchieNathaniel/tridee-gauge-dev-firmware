@@ -1,6 +1,6 @@
 {
-  "version": "0.0.9",
+  "version": "0.0.10",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2667024,
-  "sha256": "8722f9f3eeb7afc34a7f14cee0408e8cf6524dd0f13665105cc7ee914fd9c953"
+  "size": 2667120,
+  "sha256": "3eeec7ced20e1ce0e41558c4c0f629dcdd59ae43095291f7f5d0bbae0fa46e5e"
 }

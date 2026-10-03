@@ -1,7 +1,7 @@
 {
-  "version": "0.0.16",
+  "version": "0.0.17",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2683392,
-  "sha256": "afdfd11b12ca1b089255f7e6765451a4ccff3028fc9fd12ead69d1f5f6054c12",
-  "notes": "PERBARUI FIRMWARE: alat langsung restart ke versi baru setelah PASANG selesai, tidak lagi diam 5 menit di mode setting"
+  "size": 2736640,
+  "sha256": "97817015bfda756d28f1c8a1b0a021afad655b2505c6d1f855bd4a6544107fff",
+  "notes": "MULTI GAUGE BERKENDARA: lingkaran G-force diganti horizon kemiringan dengan penanda + di tengah. Garis biru miring ikut roll dan naik-turun ikut pitch; penanda kiri-kanan berubah kuning/merah saat miring samping, penanda atas-bawah saat menanjak/menurun | MENCARI DONGLE: gauge tidak lagi diam di BLUETOOTH tanpa hitung mundur; sesudah giliran Bluetooth habis ia pindah ke WiFi seperti seharusnya"
 }

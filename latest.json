@@ -1,7 +1,7 @@
 {
-  "version": "0.0.17",
+  "version": "0.0.18",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2736640,
-  "sha256": "97817015bfda756d28f1c8a1b0a021afad655b2505c6d1f855bd4a6544107fff",
-  "notes": "MULTI GAUGE BERKENDARA: lingkaran G-force diganti horizon kemiringan dengan penanda + di tengah. Garis biru miring ikut roll dan naik-turun ikut pitch; penanda kiri-kanan berubah kuning/merah saat miring samping, penanda atas-bawah saat menanjak/menurun | MENCARI DONGLE: gauge tidak lagi diam di BLUETOOTH tanpa hitung mundur; sesudah giliran Bluetooth habis ia pindah ke WiFi seperti seharusnya"
+  "size": 2737344,
+  "sha256": "2269d85ca94c6099f47294cef88d5d56300000561c6360749c5362107d56928e",
+  "notes": "MULTI GAUGE BERKENDARA (EV): busur torsi baru di bagian bawah cincin; judul dan titik halaman tampil 2 detik saat halaman dibuka, lalu memberi tempat untuk busur torsi"
 }

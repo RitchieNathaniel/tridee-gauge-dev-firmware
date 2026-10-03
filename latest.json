@@ -1,7 +1,7 @@
 {
-  "version": "0.0.15",
+  "version": "0.0.16",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2683328,
-  "sha256": "95326e72307c4d4afae87cebe95c2b0563204168ecaf46a5e72946b253bb467c",
-  "notes": "PERBARUI FIRMWARE: unduhan tidak lagi diputus restart mode setting menganggur setelah 5 menit | PERBARUI FIRMWARE: unduhan lebih cepat, beberapa potongan 4 KB per putaran layar (maksimal 40 ms) alih-alih satu, dengan log progres tiap 256 KB di serial"
+  "size": 2683392,
+  "sha256": "afdfd11b12ca1b089255f7e6765451a4ccff3028fc9fd12ead69d1f5f6054c12",
+  "notes": "PERBARUI FIRMWARE: alat langsung restart ke versi baru setelah PASANG selesai, tidak lagi diam 5 menit di mode setting"
 }

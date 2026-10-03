@@ -1,7 +1,7 @@
 {
-  "version": "0.0.13",
+  "version": "0.0.14",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2685216,
-  "sha256": "2065310ce8ed0206be25831399e27e0da07708c6ed684b4796e2ed2e896775b2",
-  "notes": "Halaman yang datanya tidak pernah dijawab mobil disembunyikan otomatis, tidak lagi tampil DATA TIDAK TERSEDIA atau SENSOR TIDAK MENJAWAB | Layar gabungan (BERKENDARA, DAYA, TERMAL, KEMUDI) tampil asal satu datanya ada; bagian yang kosong ditulis -- | SETELAN HP: tombol kembali kini di kiri atas sebelah judul, di subhalaman setelan dan di PERBARUI FIRMWARE | SETELAN HP: menu depan memakai logo Tridee dan judul Tridee Gauge"
+  "size": 2683200,
+  "sha256": "6354dce0afbd6e96517263a319323bb604733443125ab58ebcd6308ab1a098dc",
+  "notes": "LOGO SPLASH: unggah PNG/JPG kini benar-benar bekerja; di 0.0.13 unggahan 300 px gagal didekode lalu alat membeku sampai dicabut dayanya | SETELAN HP: pindah menu jauh lebih cepat; portal dilayani berulang dalam satu putaran (accept, baca, jawab, lanjutan) alih-alih satu langkah per putaran 50-80 ms, dan favicon dijawab 204 (dulu seluruh halaman) | SETELAN HP: tombol SIMPAN berubah jadi MENYIMPAN… dengan cincin berputar, dan TERSIMPAN tampil sebagai toast yang hilang sendiri 5 detik"
 }

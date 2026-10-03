@@ -1,7 +1,7 @@
 {
-  "version": "0.0.14",
+  "version": "0.0.15",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2683200,
-  "sha256": "6354dce0afbd6e96517263a319323bb604733443125ab58ebcd6308ab1a098dc",
-  "notes": "LOGO SPLASH: unggah PNG/JPG kini benar-benar bekerja; di 0.0.13 unggahan 300 px gagal didekode lalu alat membeku sampai dicabut dayanya | SETELAN HP: pindah menu jauh lebih cepat; portal dilayani berulang dalam satu putaran (accept, baca, jawab, lanjutan) alih-alih satu langkah per putaran 50-80 ms, dan favicon dijawab 204 (dulu seluruh halaman) | SETELAN HP: tombol SIMPAN berubah jadi MENYIMPAN… dengan cincin berputar, dan TERSIMPAN tampil sebagai toast yang hilang sendiri 5 detik"
+  "size": 2683328,
+  "sha256": "95326e72307c4d4afae87cebe95c2b0563204168ecaf46a5e72946b253bb467c",
+  "notes": "PERBARUI FIRMWARE: unduhan tidak lagi diputus restart mode setting menganggur setelah 5 menit | PERBARUI FIRMWARE: unduhan lebih cepat, beberapa potongan 4 KB per putaran layar (maksimal 40 ms) alih-alih satu, dengan log progres tiap 256 KB di serial"
 }

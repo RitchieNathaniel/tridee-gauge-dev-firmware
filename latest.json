@@ -1,7 +1,7 @@
 {
-  "version": "0.0.18",
+  "version": "0.0.19",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2737344,
-  "sha256": "2269d85ca94c6099f47294cef88d5d56300000561c6360749c5362107d56928e",
-  "notes": "MULTI GAUGE BERKENDARA (EV): busur torsi baru di bagian bawah cincin; judul dan titik halaman tampil 2 detik saat halaman dibuka, lalu memberi tempat untuk busur torsi"
+  "size": 2741680,
+  "sha256": "b965599aae7afb9d16081aa8775bdd117ef3be07fc6068cbc80d3e4b5eadcfa1",
+  "notes": "Semua layar multi gauge kini punya judul di bawah cincin atas dan busur kecil di bawah: DAYA, BERKENDARA, TERMAL, KEMUDI, dan MEDAN | Hijau lime baru untuk regen dan busur bawah, dan cincin daya sudah menyala mulai 0,1 kW | Suhu pack baterai kini kuning mulai 45 °C dan merah mulai 55 °C | KEMUDI menampilkan kecepatan di tengah; MEDAN memindah pitch ke busur bawah dan memperbesar G-force | Mobil bensin/diesel: tiga halaman torsi baru dan busur torsi di BERKENDARA"
 }

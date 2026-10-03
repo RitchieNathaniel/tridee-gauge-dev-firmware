@@ -1,7 +1,7 @@
 {
-  "version": "0.0.19",
+  "version": "0.0.20",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2741680,
-  "sha256": "b965599aae7afb9d16081aa8775bdd117ef3be07fc6068cbc80d3e4b5eadcfa1",
-  "notes": "Semua layar multi gauge kini punya judul di bawah cincin atas dan busur kecil di bawah: DAYA, BERKENDARA, TERMAL, KEMUDI, dan MEDAN | Hijau lime baru untuk regen dan busur bawah, dan cincin daya sudah menyala mulai 0,1 kW | Suhu pack baterai kini kuning mulai 45 °C dan merah mulai 55 °C | KEMUDI menampilkan kecepatan di tengah; MEDAN memindah pitch ke busur bawah dan memperbesar G-force | Mobil bensin/diesel: tiga halaman torsi baru dan busur torsi di BERKENDARA"
+  "size": 2742592,
+  "sha256": "76225861e4e2ee17dcfbb254c0131218c7db6fe11af8ab0d5c2a14437691b12b",
+  "notes": "Suara NORMAL kini berbunyi di menu: klik saat menggeser, satu bip saat memilih atau kembali, dua bip saat mengonfirmasi | MG: halaman baru PUTARAN MOTOR, 0 sampai 16.000 rpm, kuning mulai 12.000 dan merah mulai 14.000"
 }

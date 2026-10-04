@@ -1,7 +1,7 @@
 {
-  "version": "0.0.20",
+  "version": "0.0.21",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2742592,
-  "sha256": "76225861e4e2ee17dcfbb254c0131218c7db6fe11af8ab0d5c2a14437691b12b",
-  "notes": "Suara NORMAL kini berbunyi di menu: klik saat menggeser, satu bip saat memilih atau kembali, dua bip saat mengonfirmasi | MG: halaman baru PUTARAN MOTOR, 0 sampai 16.000 rpm, kuning mulai 12.000 dan merah mulai 14.000"
+  "size": 2813568,
+  "sha256": "2585e2d4f66d36c73de109935a4104f62f9cb4180764a72152976067131a4ded",
+  "notes": "MULTI GAUGE KUSTOM tampil di layar gauge (tahap board): sampai lima halaman kustom masuk urutan geser sesudah KEMUDI, dihitung MULTI GAUGE di rotasi otomatis, dan menu per halamannya mewarisi setelan halaman asal tiap isi slot | SETELAN HP: menu baru MULTI GAUGE KUSTOM (di bawah SATUAN PER HALAMAN) untuk menyusun sampai 5 multi gauge sendiri | Geser layar lebih sensitif, terutama geseran pendek dari tengah layar"
 }

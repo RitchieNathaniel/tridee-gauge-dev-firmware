@@ -1,7 +1,7 @@
 {
-  "version": "0.0.23",
+  "version": "0.0.24",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2864512,
-  "sha256": "13cc11719dc027bd80b04bcca3ff356e5a7c86f6709cd8cf778e68d66a2b39c3",
-  "notes": "Petunjuk cara pakai saat pertama menyala kini berjudul HOW TO NAVIGATE, dan baris petunjuk ganti halaman letaknya lebih seimbang | J5: busur bawah layar BERKENDARA EV dan KEMUDI kini terisi torsi motor (TORSI ESTIMASI) 0-300 Nm, sama dengan sisi dorong halaman TORSI (ESTIMASI); sebelumnya busur ini selalu kosong | J5: bar GAS di BERKENDARA EV dan KEMUDI kini terisi - penuh saat pedal gas diinjak, kosong saat dilepas (J5 belum memberi posisi pedal dalam persen)"
+  "size": 2868656,
+  "sha256": "d491c844c7ea9069af051b705fae5c3991afcc29a21e3126cf61477efc0dad36",
+  "notes": "Saat dongle ditemukan, layar menampilkan MENYAMBUNG dengan hitung mundur atau titik bergerak agar proses sambungan tidak terlihat macet | Gauge tidak lagi putus-sambung terus setiap beberapa detik di mobil yang menolak sebagian data (misalnya Jaecoo J5 varian lain) | Mobil listrik seperti Hyundai IONIQ 5 dan Nissan Leaf kini dikenali sebagai listrik, jadi tidak ada lagi zona redline merah di layar RPM"
 }

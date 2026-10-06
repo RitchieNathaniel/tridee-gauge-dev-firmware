@@ -1,7 +1,7 @@
 {
-  "version": "0.0.22",
+  "version": "0.0.23",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2836864,
-  "sha256": "71354a99254e01680eb11946a296cf481fa4f248b43f1d030e58566fad33b23c",
-  "notes": "J5: halaman PEDAL? dan TORSI? dicabut (keduanya ternyata kecepatan putar); MCU 4201 kini tampil sebagai PUTARAN MOTOR | Alur PERBARUI FIRMWARE dan UNGGAH BERKAS dirapikan: langkah, status, dan saran saat gagal | J5: REKAM DATA OBD ikut merekam 167 DID kandidat (mode riset) untuk mencari pedal gas dan torsi asli"
+  "size": 2864512,
+  "sha256": "13cc11719dc027bd80b04bcca3ff356e5a7c86f6709cd8cf778e68d66a2b39c3",
+  "notes": "Petunjuk cara pakai saat pertama menyala kini berjudul HOW TO NAVIGATE, dan baris petunjuk ganti halaman letaknya lebih seimbang | J5: busur bawah layar BERKENDARA EV dan KEMUDI kini terisi torsi motor (TORSI ESTIMASI) 0-300 Nm, sama dengan sisi dorong halaman TORSI (ESTIMASI); sebelumnya busur ini selalu kosong | J5: bar GAS di BERKENDARA EV dan KEMUDI kini terisi - penuh saat pedal gas diinjak, kosong saat dilepas (J5 belum memberi posisi pedal dalam persen)"
 }

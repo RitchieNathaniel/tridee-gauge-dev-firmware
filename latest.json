@@ -1,7 +1,7 @@
 {
-  "version": "0.0.27",
+  "version": "0.0.28",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2875552,
-  "sha256": "3772fb390bf2a555d1cac7a81333d2a13b8a5437ee90f50eead822f6f4456f38",
-  "notes": "Halaman ODOMETER, BBM LITER, REKOR, dan HYBRID kini punya cincin seperti halaman lain | Teks peringatan kini lebih singkat dan jelas: CEK PENGISIAN dan NYALAKAN SAAT MENCARI"
+  "size": 2877328,
+  "sha256": "95f3f3b8858b4f7304bb62c7722f116ac47a760b8bdf35dfaae55e19f098cdf4",
+  "notes": "Layar hitam antara PEDAL GAS dan TORSI sudah diperbaiki | Judul halaman torsi kini cukup TORSI | BERKENDARA EV: ring atas torsi, ring bawah RPM motor | Angka tampil di judul semua multi gauge | Garis pitch/roll lebih halus | Ring bawah tetap tampil saat mobil diam"
 }

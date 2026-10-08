@@ -1,7 +1,7 @@
 {
-  "version": "0.0.25",
+  "version": "0.0.26",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2869584,
-  "sha256": "85be84daf8cff54b8d1f28cea803b56c05011b44b4f3d48345979443f5727bcf",
-  "notes": "Menu setelan gauge punya item baru MULTI GAUGE KUSTOM: geser masuk menampilkan QR, pindai dari HP, dan HP langsung membuka halaman multi gauge kustom tanpa lewat menu depan"
+  "size": 2873584,
+  "sha256": "df6d9053dae8f17c7aa5f79209b06674508967e111f4d79e4f6fd630fe0d63bb",
+  "notes": "Halaman TUTORIAL baru menjelaskan cara memakai gauge. Ketuk layar untuk menutup, dan buka lagi kapan saja dari menu PANDUAN | RESET PABRIK, HAPUS GAUGE ANAK, dan LEPAS DARI INDUK kini minta konfirmasi dulu, geser ke atas selalu BATAL | Hitung mundur MENYAMBUNG tidak lagi hilang atau diam saat gauge mengenali mobil | Nomor versi di info firmware kini sama persis dengan versi rilis"
 }

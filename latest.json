@@ -1,7 +1,7 @@
 {
-  "version": "0.0.26",
+  "version": "0.0.27",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2873584,
-  "sha256": "df6d9053dae8f17c7aa5f79209b06674508967e111f4d79e4f6fd630fe0d63bb",
-  "notes": "Halaman TUTORIAL baru menjelaskan cara memakai gauge. Ketuk layar untuk menutup, dan buka lagi kapan saja dari menu PANDUAN | RESET PABRIK, HAPUS GAUGE ANAK, dan LEPAS DARI INDUK kini minta konfirmasi dulu, geser ke atas selalu BATAL | Hitung mundur MENYAMBUNG tidak lagi hilang atau diam saat gauge mengenali mobil | Nomor versi di info firmware kini sama persis dengan versi rilis"
+  "size": 2875552,
+  "sha256": "3772fb390bf2a555d1cac7a81333d2a13b8a5437ee90f50eead822f6f4456f38",
+  "notes": "Halaman ODOMETER, BBM LITER, REKOR, dan HYBRID kini punya cincin seperti halaman lain | Teks peringatan kini lebih singkat dan jelas: CEK PENGISIAN dan NYALAKAN SAAT MENCARI"
 }

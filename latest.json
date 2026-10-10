@@ -1,7 +1,7 @@
 {
-  "version": "0.0.28",
+  "version": "0.0.29",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2877328,
-  "sha256": "95f3f3b8858b4f7304bb62c7722f116ac47a760b8bdf35dfaae55e19f098cdf4",
-  "notes": "Layar hitam antara PEDAL GAS dan TORSI sudah diperbaiki | Judul halaman torsi kini cukup TORSI | BERKENDARA EV: ring atas torsi, ring bawah RPM motor | Angka tampil di judul semua multi gauge | Garis pitch/roll lebih halus | Ring bawah tetap tampil saat mobil diam"
+  "size": 2893376,
+  "sha256": "a9b851423f6174b03419a8dcd9272b8516521ee2bfdde6cfa2e20374b3c86150",
+  "notes": "Layar lebih ringan: hanya bagian yang berubah digambar ulang | Permintaan data Bluetooth dijatah 16,6 per detik, angka utama tetap tercepat | REKAM di MG S5 ikut mencatat voltase aki 12 V dari 6 sumber | Titik merah berkedip saat REKAM | Perbarui firmware dilanjutkan di layar gauge: geser bawah perbarui, atas batal | GANGGUAN PENGISIAN tak lagi salah muncul di 12,8 V; peringatan kritis ditutup dengan geser | Halaman GIGI hanya tampil bila mobil melaporkan gigi"
 }

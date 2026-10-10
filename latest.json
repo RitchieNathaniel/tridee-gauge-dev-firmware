@@ -1,7 +1,7 @@
 {
-  "version": "0.0.30",
+  "version": "0.0.31",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2928912,
-  "sha256": "ac6ef6b7a6070c67b6dd31773ffc6307d23bd2b765f4b4957983e69eb99b25b8",
-  "notes": "Sensor tekanan ban (TPMS) Bluetooth: pasang sensor di empat roda dan halaman TEKANAN BAN | LAYAR SPLASH: logo merek mobilmu tampil saat gauge menyala, dipilih di portal web (TRIDEE, LOGO MOBIL, atau gambar sendiri) | REKOR dan PERFORMA pindah tepat sebelum KODE KERUSAKAN | Portal web: tombol perbarui firmware menampilkan status memuat"
+  "size": 2929040,
+  "sha256": "6bab214055bef216e1272d52221f51ed087c0f2fa4ba04ba20e594b30563e1c1",
+  "notes": "Multi DAYA: SOH dan SISA kWh kini bersusun atas-bawah di tengah layar | SISA kWh tampil tanpa angka di belakang koma (47 kWh), karena baterai J5 memang hanya melapor kWh bulat"
 }

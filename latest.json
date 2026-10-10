@@ -1,7 +1,7 @@
 {
-  "version": "0.0.29",
+  "version": "0.0.30",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2893376,
-  "sha256": "a9b851423f6174b03419a8dcd9272b8516521ee2bfdde6cfa2e20374b3c86150",
-  "notes": "Layar lebih ringan: hanya bagian yang berubah digambar ulang | Permintaan data Bluetooth dijatah 16,6 per detik, angka utama tetap tercepat | REKAM di MG S5 ikut mencatat voltase aki 12 V dari 6 sumber | Titik merah berkedip saat REKAM | Perbarui firmware dilanjutkan di layar gauge: geser bawah perbarui, atas batal | GANGGUAN PENGISIAN tak lagi salah muncul di 12,8 V; peringatan kritis ditutup dengan geser | Halaman GIGI hanya tampil bila mobil melaporkan gigi"
+  "size": 2928912,
+  "sha256": "ac6ef6b7a6070c67b6dd31773ffc6307d23bd2b765f4b4957983e69eb99b25b8",
+  "notes": "Sensor tekanan ban (TPMS) Bluetooth: pasang sensor di empat roda dan halaman TEKANAN BAN | LAYAR SPLASH: logo merek mobilmu tampil saat gauge menyala, dipilih di portal web (TRIDEE, LOGO MOBIL, atau gambar sendiri) | REKOR dan PERFORMA pindah tepat sebelum KODE KERUSAKAN | Portal web: tombol perbarui firmware menampilkan status memuat"
 }

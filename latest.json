@@ -1,7 +1,7 @@
 {
-  "version": "0.0.32",
+  "version": "0.0.33",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2924416,
-  "sha256": "4eb16341a30e3677dd9c291073eb25359306736f2a5646df079251c1b961d4af",
-  "notes": "TAMBAH GAUGE ANAK kini bisa dipakai saat dongle Bluetooth tersambung, karena memori gauge dibebaskan untuk radio | Kalau memori tetap tidak cukup, gauge menampilkan RAM GAUGE KURANG beserta angkanya, bukan RADIO GAGAL MENYALA | Menu umum: semua setelan TPMS kini dikumpulkan dalam satu grup TPMS | SUARA ROTASI punya pilihan MATI: halaman berganti otomatis tanpa bunyi | Layar unduh pembaruan: tulisan BATAL dan panahnya dinaikkan agar tidak menabrak cincin kemajuan"
+  "size": 2967008,
+  "sha256": "876f31b131616240a1e169216325f33eef6a3e8cb606e8cb812fa46fa46c6ac1",
+  "notes": "Gauge kedua (anak) kini menampilkan TORSI, PUTARAN MOTOR, dan semua data lain yang tampil di gauge utama | Jaecoo J5: halaman KODE KERUSAKAN kini membaca kode kerusakan langsung dari 18 modul mobil (VCU, motor, BMS, charger, rem, setir, AC, dan lainnya) | ROTASI OTOMATIS MULTI + SMART tidak lagi menampilkan KECEPATAN atau gauge tunggal lain, dan urutannya selalu berurutan sejak layar pertama | Halaman SESI CAS sekarang berada tepat sebelum REKOR dan PERFORMA"
 }

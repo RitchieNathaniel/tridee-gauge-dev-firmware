@@ -1,7 +1,7 @@
 {
-  "version": "0.0.31",
+  "version": "0.0.32",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2929040,
-  "sha256": "6bab214055bef216e1272d52221f51ed087c0f2fa4ba04ba20e594b30563e1c1",
-  "notes": "Multi DAYA: SOH dan SISA kWh kini bersusun atas-bawah di tengah layar | SISA kWh tampil tanpa angka di belakang koma (47 kWh), karena baterai J5 memang hanya melapor kWh bulat"
+  "size": 2924416,
+  "sha256": "4eb16341a30e3677dd9c291073eb25359306736f2a5646df079251c1b961d4af",
+  "notes": "TAMBAH GAUGE ANAK kini bisa dipakai saat dongle Bluetooth tersambung, karena memori gauge dibebaskan untuk radio | Kalau memori tetap tidak cukup, gauge menampilkan RAM GAUGE KURANG beserta angkanya, bukan RADIO GAGAL MENYALA | Menu umum: semua setelan TPMS kini dikumpulkan dalam satu grup TPMS | SUARA ROTASI punya pilihan MATI: halaman berganti otomatis tanpa bunyi | Layar unduh pembaruan: tulisan BATAL dan panahnya dinaikkan agar tidak menabrak cincin kemajuan"
 }

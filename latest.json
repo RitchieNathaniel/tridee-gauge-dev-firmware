@@ -1,7 +1,7 @@
 {
-  "version": "0.0.34",
+  "version": "0.0.35",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 3099968,
-  "sha256": "23c778eb458fca8fc1a07bf42308efbaa923cb20ddb7c98a9a1f139092320afa",
-  "notes": "Tema tampilan bisa dipilih: RING atau JARUM, dari menu TAMPILAN › TEMA atau portal HP; langsung berganti tanpa restart; gauge anak punya pilihan sendiri"
+  "size": 3104688,
+  "sha256": "ea8839787f57eff187548b09081297fd86011bdc09ce633ad694f549f7b63853",
+  "notes": "Layar TAMBAH dan HAPUS TPMS kini tampil saat dibuka dari menu, tidak lagi tertutup menu yang tampak beku | RESET PABRIK kini menghapus semua setelan, Wi-Fi, rekaman, dan logo, serta melepas pasangan Gauge Link | MG S5: angka REM kini mencapai 100 % saat diinjak penuh | Mobil listrik murni tidak lagi menampilkan BEBAN MESIN yang selalu 100 % | Layar TPMS kini berbunyi seperti menu: bip saat pindah roda, dua bip saat sensor tersimpan atau dihapus"
 }

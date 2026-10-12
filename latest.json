@@ -1,7 +1,7 @@
 {
-  "version": "0.0.33",
+  "version": "0.0.34",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 2967008,
-  "sha256": "876f31b131616240a1e169216325f33eef6a3e8cb606e8cb812fa46fa46c6ac1",
-  "notes": "Gauge kedua (anak) kini menampilkan TORSI, PUTARAN MOTOR, dan semua data lain yang tampil di gauge utama | Jaecoo J5: halaman KODE KERUSAKAN kini membaca kode kerusakan langsung dari 18 modul mobil (VCU, motor, BMS, charger, rem, setir, AC, dan lainnya) | ROTASI OTOMATIS MULTI + SMART tidak lagi menampilkan KECEPATAN atau gauge tunggal lain, dan urutannya selalu berurutan sejak layar pertama | Halaman SESI CAS sekarang berada tepat sebelum REKOR dan PERFORMA"
+  "size": 3099968,
+  "sha256": "23c778eb458fca8fc1a07bf42308efbaa923cb20ddb7c98a9a1f139092320afa",
+  "notes": "Tema tampilan bisa dipilih: RING atau JARUM, dari menu TAMPILAN › TEMA atau portal HP; langsung berganti tanpa restart; gauge anak punya pilihan sendiri"
 }

@@ -1,7 +1,7 @@
 {
-  "version": "0.0.36",
+  "version": "0.0.37",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 3122048,
-  "sha256": "74776c699ed300454103a84f5c50aad7bc1a4235f5676b3a59ce7c23a735cd76",
-  "notes": "TPMS: ID sensor kini bisa diisi manual di portal HP, sensor format lain ikut terbaca, dan sensor yang belum dikenal tampil sebagai FORMAT BELUM DIKENAL dengan data mentahnya | Tema JARUM kini lebih cepat saat pindah halaman | Layar konfirmasi LEPAS, RESET PABRIK, dan HAPUS GAUGE ANAK kini lebih bersih tanpa tulisan ajakan di atas"
+  "size": 3124096,
+  "sha256": "ea36683157864493230da2d7d368b055cdf35b6a02018c2979e0f44c9a62e0a0",
+  "notes": "TPMS: sensor tutup pentil format AC 00 kini terbaca (tekanan, suhu, baterai) | Bunyi bip menu tidak lagi hilang saat geser, masuk, atau konfirmasi | TAMBAH TPMS: peringatan pasang sensor satu per satu, hanya di ban yang dipilih | Tutorial diawali halaman sampul; geser kiri = lanjut, kanan = kembali | Ambang tekanan TPMS kini diatur dari menu halaman TPMS | Tema JARUM lebih ringan saat jarum bergerak | Petunjuk GESER di tepi layar kini dua baris agar tidak terpotong"
 }

@@ -1,7 +1,7 @@
 {
-  "version": "0.0.37",
+  "version": "0.0.38",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 3124096,
-  "sha256": "ea36683157864493230da2d7d368b055cdf35b6a02018c2979e0f44c9a62e0a0",
-  "notes": "TPMS: sensor tutup pentil format AC 00 kini terbaca (tekanan, suhu, baterai) | Bunyi bip menu tidak lagi hilang saat geser, masuk, atau konfirmasi | TAMBAH TPMS: peringatan pasang sensor satu per satu, hanya di ban yang dipilih | Tutorial diawali halaman sampul; geser kiri = lanjut, kanan = kembali | Ambang tekanan TPMS kini diatur dari menu halaman TPMS | Tema JARUM lebih ringan saat jarum bergerak | Petunjuk GESER di tepi layar kini dua baris agar tidak terpotong"
+  "size": 3156960,
+  "sha256": "d7be4e91ac7c01ec361d37ec55f76b0d8bea42d10b0c4e3e96ea36fb86ff048f",
+  "notes": "Tema JARUM: gerak lebih halus, judul gauge dan chrono bold, angka skala lebih rapat | Jarum tampil di atas judul; ring chrono tetap di depan | Jarum PITCH pada halaman MEDAN kembali tampil | Respons data utama dipercepat dengan polling adaptif dan optimasi jawaban dongle | SINKRONISASI TPMS lebih peka: pindaian terus-menerus tanpa jeda, menunggu tanpa batas, waktu tunggu dan petunjuk PUTAR RODA di layar"
 }

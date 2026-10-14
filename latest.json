@@ -1,7 +1,7 @@
 {
-  "version": "0.0.42",
+  "version": "0.0.43",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 3165600,
-  "sha256": "f19077d358d42c46fef9ceaf2ed59289e52f1af8afcf2db84cb7c3fe242d9e83",
-  "notes": "Layar hasil TAMBAH dan HAPUS TPMS kini punya panah KEMBALI di atas dan bawah, teks di tengah dirapikan, dan TERSIMPAN tampil biru"
+  "size": 3174464,
+  "sha256": "5652b83b3428ba4d1ce4ddc28adfa01f3e16e63febbbb22e0c0fd50a7fe3bb41",
+  "notes": "Gauge tidak lagi membeku atau restart saat halaman digeser cepat, terutama di tema JARUM | Tekanan ban TPMS tetap tampil setelah gauge restart dan sensor lebih cepat tertangkap saat mulai jalan | Garis batas tebal min dan maks pada tema JARUM kini menyambung ke garis lingkar | Catatan crash terakhir bisa dibuka dari HP di 192.168.4.1/crash"
 }

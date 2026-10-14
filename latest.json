@@ -1,7 +1,7 @@
 {
-  "version": "0.0.41",
+  "version": "0.0.42",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 3165264,
-  "sha256": "d99569162a84684ff8e1e3a489f1f6068adea30056f3009360c94b80f11e7923",
-  "notes": "Urutan menu pengaturan baru: tampilan dulu, lalu Mode Smart, rotasi otomatis, kalibrasi, kecerahan, redup malam, bahasa, suara, dan jenis penggerak | Tema JARUM kini tersedia untuk TEKANAN BAN, dengan jarum terpisah tiap roda serta skala PSI, bar, dan kPa; tekanan yang belum diketahui tetap tampil -- tanpa jarum"
+  "size": 3165600,
+  "sha256": "f19077d358d42c46fef9ceaf2ed59289e52f1af8afcf2db84cb7c3fe242d9e83",
+  "notes": "Layar hasil TAMBAH dan HAPUS TPMS kini punya panah KEMBALI di atas dan bawah, teks di tengah dirapikan, dan TERSIMPAN tampil biru"
 }

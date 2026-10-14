@@ -1,7 +1,7 @@
 {
-  "version": "0.0.40",
+  "version": "0.0.41",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 3164208,
-  "sha256": "4811f2877d64c9ddd6824cae47e87dfd4b7792286702863e2307cd95c8ddf66a",
-  "notes": "Menu PERBARUI FIRMWARE di pengaturan umum: cek OTA langsung dengan WiFi tersimpan, atau pindai QR untuk mengisi WiFi rumah lewat HP | Muka dial tema JARUM disimpan di PSRAM untuk mengurangi pekerjaan gambar ulang | Polling memprioritaskan sinyal jarum aktif dan memasangkan RPM dengan arus untuk estimasi torsi J5"
+  "size": 3165264,
+  "sha256": "d99569162a84684ff8e1e3a489f1f6068adea30056f3009360c94b80f11e7923",
+  "notes": "Urutan menu pengaturan baru: tampilan dulu, lalu Mode Smart, rotasi otomatis, kalibrasi, kecerahan, redup malam, bahasa, suara, dan jenis penggerak | Tema JARUM kini tersedia untuk TEKANAN BAN, dengan jarum terpisah tiap roda serta skala PSI, bar, dan kPa; tekanan yang belum diketahui tetap tampil -- tanpa jarum"
 }

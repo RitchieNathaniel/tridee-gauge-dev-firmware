@@ -1,7 +1,7 @@
 {
-  "version": "0.0.39",
+  "version": "0.0.40",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 3158928,
-  "sha256": "961a1ce2b4d79fdcbda28a0a51bcf28350b4698c51102e34dd563a1dc6c7dc84",
-  "notes": "Jarum TORSI tidak lagi hilang saat mobil berhenti, tetap di 0 Nm | Tema JARUM: jarum bergerak terus di antara data, tidak lagi gerak-berhenti | TPMS: tekanan tidak lagi tampil 0.0 setelah tutup pentil dilepas lalu dipasang lagi | TPMS: sinkronisasi bisa langsung disimpan lewat ID sensor dari paket pertama, dan memilih sensor dengan sinyal terkuat | TPMS: nilai ban terakhir tetap tampil 30 menit, karena tutup pentil hanya mengirim saat tekanan berubah"
+  "size": 3164208,
+  "sha256": "4811f2877d64c9ddd6824cae47e87dfd4b7792286702863e2307cd95c8ddf66a",
+  "notes": "Menu PERBARUI FIRMWARE di pengaturan umum: cek OTA langsung dengan WiFi tersimpan, atau pindai QR untuk mengisi WiFi rumah lewat HP | Muka dial tema JARUM disimpan di PSRAM untuk mengurangi pekerjaan gambar ulang | Polling memprioritaskan sinyal jarum aktif dan memasangkan RPM dengan arus untuk estimasi torsi J5"
 }

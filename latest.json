@@ -1,7 +1,7 @@
 {
-  "version": "0.0.43",
+  "version": "0.0.44",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware.tfw",
-  "size": 3174464,
-  "sha256": "5652b83b3428ba4d1ce4ddc28adfa01f3e16e63febbbb22e0c0fd50a7fe3bb41",
-  "notes": "Gauge tidak lagi membeku atau restart saat halaman digeser cepat, terutama di tema JARUM | Tekanan ban TPMS tetap tampil setelah gauge restart dan sensor lebih cepat tertangkap saat mulai jalan | Garis batas tebal min dan maks pada tema JARUM kini menyambung ke garis lingkar | Catatan crash terakhir bisa dibuka dari HP di 192.168.4.1/crash"
+  "size": 3180448,
+  "sha256": "0ff0d0bab801813cda9ffa580ead018796437a26a49b37f2a8d85e373657e6c8",
+  "notes": "Jarum dan angka di mobil MG kini lebih cepat diperbarui | Halaman PEDAL GAS dan TORSI di J5 lebih responsif, halaman BERKENDARA tetap secepat sebelumnya | Persentase baterai dan redup malam tetap cepat mengikuti keadaan mobil | Lebih aman untuk dongle OBD klon: permintaan gabungan yang gagal tidak dicoba lagi sampai gauge dimatikan"
 }

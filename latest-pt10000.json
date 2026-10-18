@@ -1,8 +1,8 @@
 {
-  "version": "0.0.44",
+  "version": "2026.10.18.1",
   "tabel": "0x10000",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware-pt10000.tfw",
-  "size": 3238400,
-  "sha256": "34d42b0d6056e4cf5990a1959cae39855067c9578ba80f1d0fe1292a269481fd",
-  "notes": "Firmware dev pertama untuk tabel partisi baru 0x10000 (sama dengan 0.0.44 di board uji aktivasi)"
+  "size": 3251792,
+  "sha256": "6f746e5ac1ab85866350e270328c8729cea196305eb9b42729d8012384a8c762",
+  "notes": "Urutan halaman kini SMART, MULTI, CUSTOM MULTI, SINGLE, lalu informasi statis | Alur aktivasi, tutorial, dan kalibrasi lebih teratur; pesan gagal aktivasi lebih jelas | Uji pabrik dan protokol QA terautentikasi tersedia untuk pengujian DEV | Swipe lebih peka; pembaruan data dan informasi gauge disempurnakan | Catatan DEV: restart watchdog setelah aktivasi masih dalam investigasi"
 }

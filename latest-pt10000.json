@@ -1,0 +1,8 @@
+{
+  "version": "0.0.44",
+  "tabel": "0x10000",
+  "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware-pt10000.tfw",
+  "size": 3238400,
+  "sha256": "34d42b0d6056e4cf5990a1959cae39855067c9578ba80f1d0fe1292a269481fd",
+  "notes": "Firmware dev pertama untuk tabel partisi baru 0x10000 (sama dengan 0.0.44 di board uji aktivasi)"
+}

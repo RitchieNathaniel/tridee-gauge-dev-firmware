@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.18.1",
+  "version": "2026.10.20.1",
   "tabel": "0x10000",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware-pt10000.tfw",
-  "size": 3251792,
-  "sha256": "6f746e5ac1ab85866350e270328c8729cea196305eb9b42729d8012384a8c762",
-  "notes": "Urutan halaman kini SMART, MULTI, CUSTOM MULTI, SINGLE, lalu informasi statis | Alur aktivasi, tutorial, dan kalibrasi lebih teratur; pesan gagal aktivasi lebih jelas | Uji pabrik dan protokol QA terautentikasi tersedia untuk pengujian DEV | Swipe lebih peka; pembaruan data dan informasi gauge disempurnakan | Catatan DEV: restart watchdog setelah aktivasi masih dalam investigasi"
+  "size": 3286704,
+  "sha256": "cb580d5f0a3bcd2f2200722039075cd2c154e576ca3ebe87738a7dc8d378e7c3",
+  "notes": "Masa tenggang aktivasi 3 hari | Dongle WiFi klon (Honda HR-V dll.): data mesin tidak lagi berhenti sesudah beberapa detik | AKI: MESIN TIDAK TERBACA, bukan MESIN MATI, bila rpm tidak terbaca | BAROMETRIK tidak lagi tampil 0 kPa | Halaman dibuka dengan animasi sapuan jarum/cincin ke nilai sekarang | DEV: MODE DEMO untuk merekam konten; sentuh layar untuk berhenti | DEV: JEMBATAN SCAN, Bluetooth ke dongle Wi-Fi untuk Scan Mobil Baru | DEV: uji PSRAM portal flasher diperbaiki, mode servis tersedia"
 }

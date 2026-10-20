@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.20.1",
+  "version": "2026.10.20.2",
   "tabel": "0x10000",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware-pt10000.tfw",
-  "size": 3286704,
-  "sha256": "cb580d5f0a3bcd2f2200722039075cd2c154e576ca3ebe87738a7dc8d378e7c3",
-  "notes": "Masa tenggang aktivasi 3 hari | Dongle WiFi klon (Honda HR-V dll.): data mesin tidak lagi berhenti sesudah beberapa detik | AKI: MESIN TIDAK TERBACA, bukan MESIN MATI, bila rpm tidak terbaca | BAROMETRIK tidak lagi tampil 0 kPa | Halaman dibuka dengan animasi sapuan jarum/cincin ke nilai sekarang | DEV: MODE DEMO untuk merekam konten; sentuh layar untuk berhenti | DEV: JEMBATAN SCAN, Bluetooth ke dongle Wi-Fi untuk Scan Mobil Baru | DEV: uji PSRAM portal flasher diperbaiki, mode servis tersedia"
+  "size": 3210800,
+  "sha256": "55812d7ced9827703c8fb2b16605443385206fd2cce6163ff9a9d3f1ba831022",
+  "notes": "Nama dan logo baru: RevQ Smart Gauge | Nama WiFi gauge kini RevQ-XXXXXX; pindai ulang QR di HP sesudah pembaruan"
 }

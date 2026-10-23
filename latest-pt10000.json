@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.23.1",
+  "version": "2026.10.23.2",
   "tabel": "0x10000",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware-pt10000.tfw",
-  "size": 3214864,
-  "sha256": "94606611c39433ded6592b82e828d9bfd112eb738b99174a52e7c55c32689af2",
-  "notes": "Geser ke bawah (AKTIFKAN) di pengingat aktivasi kini selalu membuka QR aktivasi. | QR aktivasi hanya tampil saat WiFi gauge sudah menyala; NANTI tidak lagi membuat gauge restart. | Animasi buka halaman kini berwarna kuning dan merah saat melewati batas ambang, sama seperti nilai sungguhan. | Gauge plus-minus (daya, arus, torsi, setir) menyapu ke ujung kiri, lalu ke ujung kanan, lalu ke nilai sekarang. | Halaman PITCH, ROLL, dan G-FORCE kini juga punya animasi buka berwarna ambang."
+  "size": 3215600,
+  "sha256": "0bfb6f64895209a0159d56c6084d2cc245a21b73011c0267ae538b7a85ab9374",
+  "notes": "Busur bawah di tema RING (TORSI di BERKENDARA dan KEMUDI, RPM di BERKENDARA EV, busur MULTI GAUGE KUSTOM) kini beranimasi saat muncul. | Halaman GIGI kini beranimasi saat dibuka. | Cincin PERSNELING di tema RING kini beranimasi P, R, N, D lalu ke gigi sekarang. | Akhir animasi cincin kini selalu tepat di nilai sekarang."
 }

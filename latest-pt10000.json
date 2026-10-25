@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.23.4",
+  "version": "2026.10.25.1",
   "tabel": "0x10000",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware-pt10000.tfw",
-  "size": 3218896,
-  "sha256": "d65e5db575dbe17ca434dfa5d94fd79b7c8f4fd400a00409089f02fedfce515b",
-  "notes": "Di HP Android, halaman gauge kini terbuka sendiri setelah scan QR (aktivasi maupun SETELAN HP), tanpa harus mengetuk Kelola router. | Alamat halaman gauge untuk diketik manual kini 4.3.2.1 (sebelumnya 192.168.4.1)."
+  "size": 3225024,
+  "sha256": "3f6fe55b4cbdd3fd7e078fd6de29b05b805ba3dc8613d986d8fd81e28587f23c",
+  "notes": "Satu dongle untuk beberapa gauge: menu TAMBAH GAUGE ANAK menyambungkan sampai 3 gauge anak ke gauge yang membaca dongle | Gauge yang belum berpasangan kini mendengarkan gauge induk 10 detik saat menyala, baru lalu mencari dongle | Kalau firmware hasil pembaruan gagal menyala dengan benar, gauge kini otomatis kembali ke versi sebelumnya. | Gauge anak menulis MENCARI INDUK bila induk hilang; jeda singkat tidak lagi memunculkan MENCARI DONGLE. | SETELAN HP kini paling belakang di SETELAN UMUM."
 }

@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.25.1",
+  "version": "2026.10.25.2",
   "tabel": "0x10000",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware-pt10000.tfw",
-  "size": 3225024,
-  "sha256": "3f6fe55b4cbdd3fd7e078fd6de29b05b805ba3dc8613d986d8fd81e28587f23c",
-  "notes": "Satu dongle untuk beberapa gauge: menu TAMBAH GAUGE ANAK menyambungkan sampai 3 gauge anak ke gauge yang membaca dongle | Gauge yang belum berpasangan kini mendengarkan gauge induk 10 detik saat menyala, baru lalu mencari dongle | Kalau firmware hasil pembaruan gagal menyala dengan benar, gauge kini otomatis kembali ke versi sebelumnya. | Gauge anak menulis MENCARI INDUK bila induk hilang; jeda singkat tidak lagi memunculkan MENCARI DONGLE. | SETELAN HP kini paling belakang di SETELAN UMUM."
+  "size": 3235888,
+  "sha256": "d7f70cdd9c5b8d58bebf3346a0ff78e65fd33ede33d036cffd49b3f30f9f9920",
+  "notes": "Dongle Vgate iCar Pro di Mazda CX-5 kini terbaca: bila pencarian protokol otomatis gagal, gauge mencoba CAN langsung. | AKI 12V kini tampil begitu dongle tersambung, juga saat mobil belum menjawab. | Bila mobil tidak menjawab, layar menyebut alasannya: PUTAR KUNCI KONTAK atau MOBIL TIDAK TERBACA. | Gauge mengingat dongle hanya sesudah mobilnya menjawab, dan pindah sendiri dari dongle mobil lain. | SETELAN HP punya halaman baru LOG DONGLE untuk diagnosa sambungan dongle."
 }

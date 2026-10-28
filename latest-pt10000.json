@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.25.2",
+  "version": "2026.10.28.1",
   "tabel": "0x10000",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware-pt10000.tfw",
-  "size": 3235888,
-  "sha256": "d7f70cdd9c5b8d58bebf3346a0ff78e65fd33ede33d036cffd49b3f30f9f9920",
-  "notes": "Dongle Vgate iCar Pro di Mazda CX-5 kini terbaca: bila pencarian protokol otomatis gagal, gauge mencoba CAN langsung. | AKI 12V kini tampil begitu dongle tersambung, juga saat mobil belum menjawab. | Bila mobil tidak menjawab, layar menyebut alasannya: PUTAR KUNCI KONTAK atau MOBIL TIDAK TERBACA. | Gauge mengingat dongle hanya sesudah mobilnya menjawab, dan pindah sendiri dari dongle mobil lain. | SETELAN HP punya halaman baru LOG DONGLE untuk diagnosa sambungan dongle."
+  "size": 3236688,
+  "sha256": "d7bccd40a788baca2d13ce57ae7a9734c83aef03d3074b178d888fcb76fc6a25",
+  "notes": "Torsi mobil listrik lebih tepat dan tidak melompat lagi: beban AC dan aki 12V tidak lagi terbaca sebagai torsi, regen tampil penuh. | Saat bahasa English: halaman kode kerusakan, label TORQUE di multi gauge, dan PEDAL di bar kustom kini ikut berbahasa Inggris."
 }

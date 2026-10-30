@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.30.1",
+  "version": "2026.10.30.2",
   "tabel": "0x10000",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware-pt10000.tfw",
-  "size": 3242928,
-  "sha256": "be0499bb94b7da6b09e2614bc907f1c72e518527cc188664d61452df57484b7e",
-  "notes": "Halaman kode kerusakan kini menampilkan kode dari mobil OBD-II biasa, dan kode bisa dihapus dari gauge: geser ke atas, pilih HAPUS, lalu geser ke atas lagi. | Animasi pembuka halaman pada skala yang punya nilai minus kini mulai dari 0, turun ke nilai terendah, naik ke nilai tertinggi, lalu ke nilai sekarang. | Rotasi otomatis SMART dan MULTI kini hanya menampilkan halaman kelasnya: layar PEDAL GAS tidak lagi ikut berputar."
+  "size": 3118272,
+  "sha256": "d14f99bbc7b63c3738b8ac6e50049710dab54dda2064186cd628d049a4ea2d9d",
+  "notes": "Di portal, menu HALAMAN kini memakai saklar TAMPIL/SEMBUNYI, dan urutan gauge di dalam tiap kelompok bisa diatur dengan tombol naik/turun. | Halaman GIGI untuk mobil bensin/diesel dihapus karena tebakannya sering salah. Pilihan GIGI di multi gauge kustom juga hilang. Halaman PERSNELING mobil listrik tetap ada. | Saat dongle baru tersambung dan mobil belum menjawab, gauge mencoba lagi 2 detik kemudian sambil tetap menampilkan MENYAMBUNG, tidak langsung PUTAR KUNCI KONTAK."
 }

@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.28.1",
+  "version": "2026.10.30.1",
   "tabel": "0x10000",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-dev-firmware/main/firmware-pt10000.tfw",
-  "size": 3236688,
-  "sha256": "d7bccd40a788baca2d13ce57ae7a9734c83aef03d3074b178d888fcb76fc6a25",
-  "notes": "Torsi mobil listrik lebih tepat dan tidak melompat lagi: beban AC dan aki 12V tidak lagi terbaca sebagai torsi, regen tampil penuh. | Saat bahasa English: halaman kode kerusakan, label TORQUE di multi gauge, dan PEDAL di bar kustom kini ikut berbahasa Inggris."
+  "size": 3242928,
+  "sha256": "be0499bb94b7da6b09e2614bc907f1c72e518527cc188664d61452df57484b7e",
+  "notes": "Halaman kode kerusakan kini menampilkan kode dari mobil OBD-II biasa, dan kode bisa dihapus dari gauge: geser ke atas, pilih HAPUS, lalu geser ke atas lagi. | Animasi pembuka halaman pada skala yang punya nilai minus kini mulai dari 0, turun ke nilai terendah, naik ke nilai tertinggi, lalu ke nilai sekarang. | Rotasi otomatis SMART dan MULTI kini hanya menampilkan halaman kelasnya: layar PEDAL GAS tidak lagi ikut berputar."
 }
